@@ -1,0 +1,73 @@
+﻿id_producto,nombre,categoría,costo,stock
+P001,Martillo de acero 16 oz,Herramientas manuales,18.50,34
+P002,Alicate universal 8 pulgadas,Herramientas manuales,16.20,42
+P003,Destornillador plano 6 pulgadas,Herramientas manuales,5.40,85
+P004,Juego de llaves mixtas 8 piezas,Herramientas manuales,42.00,18
+P005,Cinta métrica 5 m,Herramientas manuales,8.80,57
+P006,Serrucho carpintero 20 pulgadas,Herramientas manuales,24.50,22
+P007,Nivel de burbuja 40 cm,Herramientas manuales,19.90,19
+P008,Llave francesa 10 pulgadas,Herramientas manuales,28.00,16
+P009,Taladro percutor 650W,Herramientas eléctricas,145.00,9
+P010,Amoladora angular 4.5 pulgadas,Herramientas eléctricas,118.00,7
+P011,Sierra circular 7 1/4 pulgadas,Herramientas eléctricas,265.00,5
+P012,Lijadora orbital 240W,Herramientas eléctricas,98.00,11
+P013,Atornillador inalámbrico 12V,Herramientas eléctricas,132.00,8
+P014,Rotomartillo SDS Plus,Herramientas eléctricas,335.00,4
+P015,Compresora de aire 24 L,Herramientas eléctricas,430.00,3
+P016,Pistola de calor 1500W,Herramientas eléctricas,76.00,17
+P017,Cemento bolsa 42.5 kg,Materiales de construcción,24.00,96
+P018,Arena fina saco 40 kg,Materiales de construcción,7.60,120
+P019,Pegamento cerámico 25 kg,Materiales de construcción,18.20,68
+P020,Yeso bolsa 20 kg,Materiales de construcción,10.80,55
+P021,Ladrillo pandereta unidad,Materiales de construcción,0.82,900
+P022,Alambre recocido kg,Materiales de construcción,6.90,75
+P023,Clavo para madera kg,Materiales de construcción,7.40,63
+P024,Impermeabilizante 4 L,Materiales de construcción,52.00,24
+P025,Pintura látex blanca 1 gl,Pinturas,34.00,38
+P026,Pintura látex marfil 1 gl,Pinturas,33.50,31
+P027,Esmalte sintético negro 1/4 gl,Pinturas,18.00,45
+P028,Base selladora 1 gl,Pinturas,28.50,28
+P029,Rodillo felpa 9 pulgadas,Pinturas,9.70,62
+P030,Brocha 2 pulgadas,Pinturas,4.20,100
+P031,Lija al agua grano 220,Pinturas,0.55,320
+P032,Thinner acrílico 1 L,Pinturas,8.90,70
+P033,Cable THW 12 AWG metro,Electricidad,2.40,420
+P034,Interruptor simple empotrable,Electricidad,5.80,95
+P035,Tomacorriente doble,Electricidad,7.20,87
+P036,Cinta aislante negra,Electricidad,2.10,160
+P037,Foco LED 9W luz fría,Electricidad,4.80,140
+P038,Breaker termomagnético 20A,Electricidad,24.00,36
+P039,Canaleta PVC 20x10 mm,Electricidad,3.20,115
+P040,Tablero eléctrico 8 polos,Electricidad,62.00,13
+P041,Tubo PVC agua 1/2 pulgada,Gasfitería,5.40,130
+P042,Codo PVC 1/2 pulgada,Gasfitería,0.95,260
+P043,Llave esférica 1/2 pulgada,Gasfitería,9.80,74
+P044,Cinta teflón 12 mm,Gasfitería,1.10,210
+P045,Pegamento PVC 1/4 gl,Gasfitería,11.60,58
+P046,Trampa lavatorio PVC,Gasfitería,8.50,44
+P047,Válvula check 1/2 pulgada,Gasfitería,18.00,20
+P048,Ducha eléctrica 5500W,Gasfitería,69.00,10
+P049,Tornillo drywall 1 pulgada ciento,Tornillería y fijaciones,4.80,145
+P050,Tornillo autoperforante 3/4 ciento,Tornillería y fijaciones,5.20,130
+P051,Tarugo plástico 6 mm ciento,Tornillería y fijaciones,3.10,180
+P052,Perno hexagonal 1/4 ciento,Tornillería y fijaciones,12.50,58
+P053,Arandela plana 1/4 ciento,Tornillería y fijaciones,4.10,92
+P054,Tuerca hexagonal 1/4 ciento,Tornillería y fijaciones,6.00,75
+P055,Remache pop 1/8 ciento,Tornillería y fijaciones,9.50,41
+P056,Anclaje expansivo 3/8 unidad,Tornillería y fijaciones,1.80,110
+P057,Guante de seguridad latex par,Seguridad industrial,4.30,150
+P058,Lente de seguridad transparente,Seguridad industrial,6.40,95
+P059,Casco de seguridad amarillo,Seguridad industrial,16.50,32
+P060,Mascarilla KN95 unidad,Seguridad industrial,1.60,260
+P061,Chaleco reflectivo,Seguridad industrial,11.80,45
+P062,Protector auditivo tipo copa,Seguridad industrial,22.00,18
+P063,Botín de seguridad punta acero,Seguridad industrial,86.00,14
+P064,Arnés de seguridad cuerpo completo,Seguridad industrial,155.00,5
+P065,Manguera reforzada 15 m,Jardinería,34.00,28
+P066,Regadera plástica 10 L,Jardinería,18.50,24
+P067,Tijera de podar,Jardinería,22.00,20
+P068,Pala jardinera,Jardinería,19.00,19
+P069,Rastrillo metálico,Jardinería,24.00,12
+P070,Fertilizante universal 1 kg,Jardinería,9.80,52
+P071,Maceta plastica mediana,Jardinería,6.50,80
+P072,Aspersor plástico regulable,Jardinería,12.00,30
