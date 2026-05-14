@@ -1,0 +1,7 @@
+﻿validacion,valor,estado,detalle
+productos_total,72,OK,Cantidad de productos en catalogo limpio
+ventas_total,1800,OK,Cantidad de registros en ventas limpias
+nulos_ventas_limpias,0,OK,Valores nulos en dataset limpio de ventas
+nulos_productos_limpios,0,OK,Valores nulos en dataset limpio de productos
+ventas_sin_producto,0,OK,Ventas sin producto asociado
+totales_mal_calculados,0,OK,Diferencia entre total original y total recalculado

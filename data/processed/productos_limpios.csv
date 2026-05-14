@@ -1,0 +1,73 @@
+﻿id_producto,producto,categoria,costo,stock,valor_inventario
+P001,Martillo de acero 16 oz,Herramientas manuales,18.5,34,629.0
+P002,Alicate universal 8 pulgadas,Herramientas manuales,16.2,42,680.4
+P003,Destornillador plano 6 pulgadas,Herramientas manuales,5.4,85,459.0
+P004,Juego de llaves mixtas 8 piezas,Herramientas manuales,42.0,18,756.0
+P005,Cinta métrica 5 m,Herramientas manuales,8.8,57,501.6
+P006,Serrucho carpintero 20 pulgadas,Herramientas manuales,24.5,22,539.0
+P007,Nivel de burbuja 40 cm,Herramientas manuales,19.9,19,378.1
+P008,Llave francesa 10 pulgadas,Herramientas manuales,28.0,16,448.0
+P009,Taladro percutor 650W,Herramientas eléctricas,145.0,9,1305.0
+P010,Amoladora angular 4.5 pulgadas,Herramientas eléctricas,118.0,7,826.0
+P011,Sierra circular 7 1/4 pulgadas,Herramientas eléctricas,265.0,5,1325.0
+P012,Lijadora orbital 240W,Herramientas eléctricas,98.0,11,1078.0
+P013,Atornillador inalámbrico 12V,Herramientas eléctricas,132.0,8,1056.0
+P014,Rotomartillo SDS Plus,Herramientas eléctricas,335.0,4,1340.0
+P015,Compresora de aire 24 L,Herramientas eléctricas,430.0,3,1290.0
+P016,Pistola de calor 1500W,Herramientas eléctricas,76.0,17,1292.0
+P017,Cemento bolsa 42.5 kg,Materiales de construcción,24.0,96,2304.0
+P018,Arena fina saco 40 kg,Materiales de construcción,7.6,120,912.0
+P019,Pegamento cerámico 25 kg,Materiales de construcción,18.2,68,1237.6
+P020,Yeso bolsa 20 kg,Materiales de construcción,10.8,55,594.0
+P021,Ladrillo pandereta unidad,Materiales de construcción,0.82,900,738.0
+P022,Alambre recocido kg,Materiales de construcción,6.9,75,517.5
+P023,Clavo para madera kg,Materiales de construcción,7.4,63,466.2
+P024,Impermeabilizante 4 L,Materiales de construcción,52.0,24,1248.0
+P025,Pintura látex blanca 1 gl,Pinturas,34.0,38,1292.0
+P026,Pintura látex marfil 1 gl,Pinturas,33.5,31,1038.5
+P027,Esmalte sintético negro 1/4 gl,Pinturas,18.0,45,810.0
+P028,Base selladora 1 gl,Pinturas,28.5,28,798.0
+P029,Rodillo felpa 9 pulgadas,Pinturas,9.7,62,601.4
+P030,Brocha 2 pulgadas,Pinturas,4.2,100,420.0
+P031,Lija al agua grano 220,Pinturas,0.55,320,176.0
+P032,Thinner acrílico 1 L,Pinturas,8.9,70,623.0
+P033,Cable THW 12 AWG metro,Electricidad,2.4,420,1008.0
+P034,Interruptor simple empotrable,Electricidad,5.8,95,551.0
+P035,Tomacorriente doble,Electricidad,7.2,87,626.4
+P036,Cinta aislante negra,Electricidad,2.1,160,336.0
+P037,Foco LED 9W luz fría,Electricidad,4.8,140,672.0
+P038,Breaker termomagnético 20A,Electricidad,24.0,36,864.0
+P039,Canaleta PVC 20x10 mm,Electricidad,3.2,115,368.0
+P040,Tablero eléctrico 8 polos,Electricidad,62.0,13,806.0
+P041,Tubo PVC agua 1/2 pulgada,Gasfitería,5.4,130,702.0
+P042,Codo PVC 1/2 pulgada,Gasfitería,0.95,260,247.0
+P043,Llave esférica 1/2 pulgada,Gasfitería,9.8,74,725.2
+P044,Cinta teflón 12 mm,Gasfitería,1.1,210,231.0
+P045,Pegamento PVC 1/4 gl,Gasfitería,11.6,58,672.8
+P046,Trampa lavatorio PVC,Gasfitería,8.5,44,374.0
+P047,Válvula check 1/2 pulgada,Gasfitería,18.0,20,360.0
+P048,Ducha eléctrica 5500W,Gasfitería,69.0,10,690.0
+P049,Tornillo drywall 1 pulgada ciento,Tornillería y fijaciones,4.8,145,696.0
+P050,Tornillo autoperforante 3/4 ciento,Tornillería y fijaciones,5.2,130,676.0
+P051,Tarugo plástico 6 mm ciento,Tornillería y fijaciones,3.1,180,558.0
+P052,Perno hexagonal 1/4 ciento,Tornillería y fijaciones,12.5,58,725.0
+P053,Arandela plana 1/4 ciento,Tornillería y fijaciones,4.1,92,377.2
+P054,Tuerca hexagonal 1/4 ciento,Tornillería y fijaciones,6.0,75,450.0
+P055,Remache pop 1/8 ciento,Tornillería y fijaciones,9.5,41,389.5
+P056,Anclaje expansivo 3/8 unidad,Tornillería y fijaciones,1.8,110,198.0
+P057,Guante de seguridad latex par,Seguridad industrial,4.3,150,645.0
+P058,Lente de seguridad transparente,Seguridad industrial,6.4,95,608.0
+P059,Casco de seguridad amarillo,Seguridad industrial,16.5,32,528.0
+P060,Mascarilla KN95 unidad,Seguridad industrial,1.6,260,416.0
+P061,Chaleco reflectivo,Seguridad industrial,11.8,45,531.0
+P062,Protector auditivo tipo copa,Seguridad industrial,22.0,18,396.0
+P063,Botín de seguridad punta acero,Seguridad industrial,86.0,14,1204.0
+P064,Arnés de seguridad cuerpo completo,Seguridad industrial,155.0,5,775.0
+P065,Manguera reforzada 15 m,Jardinería,34.0,28,952.0
+P066,Regadera plástica 10 L,Jardinería,18.5,24,444.0
+P067,Tijera de podar,Jardinería,22.0,20,440.0
+P068,Pala jardinera,Jardinería,19.0,19,361.0
+P069,Rastrillo metálico,Jardinería,24.0,12,288.0
+P070,Fertilizante universal 1 kg,Jardinería,9.8,52,509.6
+P071,Maceta plastica mediana,Jardinería,6.5,80,520.0
+P072,Aspersor plástico regulable,Jardinería,12.0,30,360.0
