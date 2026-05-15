@@ -402,13 +402,77 @@ El Proyecto 2 se enfoca en analisis tecnico con Python: limpieza, validacion, tr
 
 \## 14. Estado Actual
 
+Estado: En fase final de documentacion y preparacion para presentacion.
 
+Fases completadas:
 
-Estado: En planificacion inicial.
+- Fase 1: Preparacion del proyecto.
+- Fase 2: Exploracion inicial del dataset.
+- Fase 3: Limpieza y transformacion de datos.
+- Fase 4: Analisis descriptivo.
+- Fase 5: Visualizacion e insights.
 
+Fase actual:
 
+- Fase 6: Cierre, documentacion final y preparacion para GitHub.
 
-Siguiente paso: configurar Git y preparar la conexion con GitHub.
+## 15. Resultados Principales
+
+| Indicador | Resultado |
+|---|---:|
+| Ventas totales | S/ 128,182.96 |
+| Unidades vendidas | 8,056 |
+| Transacciones | 1,800 |
+| Promedio de venta por linea | S/ 71.21 |
+| Margen estimado | S/ 35,775.12 |
+| Margen estimado % | 27.91% |
+
+## 16. Hallazgos Principales
+
+- Materiales de construccion es la categoria con mayor venta total.
+- Cemento bolsa 42.5 kg es el producto lider por ingresos.
+- Herramientas electricas tiene un ticket promedio alto y genera ingresos relevantes con pocas unidades.
+- Existen productos de bajo precio con alta rotacion.
+- La relacion entre precio promedio y unidades vendidas es negativa, con una correlacion aproximada de -0.3247.
+- Python permitio validar y explicar tecnicamente los resultados obtenidos en el dashboard BI.
+
+## 17. Archivos Finales del Proyecto
+
+### Datos
+
+- `data/raw/productos.csv`
+- `data/raw/ventas.csv`
+- `data/processed/productos_limpios.csv`
+- `data/processed/ventas_limpias.csv`
+- `data/processed/ranking_productos.csv`
+- `data/processed/resumen_categorias.csv`
+- `data/processed/resumen_mensual.csv`
+- `data/processed/ranking_margen_productos.csv`
+
+### Notebook
+
+- `notebooks/analisis_datos_ferreteria.ipynb`
+
+### Reportes
+
+- `reports/quality_report.csv`
+- `reports/figures/01_tendencia_mensual_ventas.png`
+- `reports/figures/02_top_productos_ventas.png`
+- `reports/figures/03_ventas_por_categoria.png`
+- `reports/figures/04_precio_vs_unidades.png`
+
+### Documentacion
+
+- `README.md`
+- `docs/documento-maestro.md`
+
+## 18. Pendientes de Cierre
+
+- Crear guia breve de presentacion para entrevista.
+- Revisar estructura final del repositorio.
+- Verificar que GitHub muestre correctamente el README y las imagenes.
+- Realizar commit final de documentacion.
+
 
 
 
