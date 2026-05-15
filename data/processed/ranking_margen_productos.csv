@@ -1,0 +1,71 @@
+﻿id_producto,producto,categoria,ventas_totales,unidades_vendidas,transacciones,margen_estimado,precio_promedio,margen_pct
+P017,Cemento bolsa 42.5 kg,Materiales de construcción,20157.32,681,91,3813.32,29.576593406593403,0.1892
+P019,Pegamento cerámico 25 kg,Materiales de construcción,8293.77,353,45,1869.17,23.448222222222224,0.2254
+P009,Taladro percutor 650W,Herramientas eléctricas,5973.08,31,19,1478.08,192.27052631578945,0.2475
+P010,Amoladora angular 4.5 pulgadas,Herramientas eléctricas,5220.52,34,24,1208.52,153.82666666666668,0.2315
+P049,Tornillo drywall 1 pulgada ciento,Tornillería y fijaciones,2724.0,323,63,1173.6,8.424285714285714,0.4308
+P001,Martillo de acero 16 oz,Herramientas manuales,3414.96,126,59,1083.96,27.078813559322036,0.3174
+P002,Alicate universal 8 pulgadas,Herramientas manuales,2763.38,114,41,916.58,24.23707317073171,0.3317
+P035,Tomacorriente doble,Electricidad,2599.7,237,43,893.3,10.995813953488373,0.3436
+P025,Pintura látex blanca 1 gl,Pinturas,2874.21,59,27,868.21,48.745925925925924,0.3021
+P018,Arena fina saco 40 kg,Materiales de construcción,4261.74,447,55,864.54,9.56109090909091,0.2029
+P005,Cinta métrica 5 m,Herramientas manuales,2229.61,163,56,795.21,13.67125,0.3567
+P029,Rodillo felpa 9 pulgadas,Pinturas,2043.52,131,44,772.82,15.583181818181817,0.3782
+P038,Breaker termomagnético 20A,Electricidad,2732.56,82,16,764.56,33.3425,0.2798
+P050,Tornillo autoperforante 3/4 ciento,Tornillería y fijaciones,1722.23,193,48,718.63,8.952916666666667,0.4173
+P034,Interruptor simple empotrable,Electricidad,2012.52,224,45,713.32,9.031333333333334,0.3544
+P037,Foco LED 9W luz fría,Electricidad,2081.67,292,55,680.07,7.139818181818182,0.3267
+P014,Rotomartillo SDS Plus,Herramientas eléctricas,2674.14,6,4,664.14,446.4075,0.2484
+P020,Yeso bolsa 20 kg,Materiales de construcción,2802.91,204,21,599.71,13.774761904761904,0.214
+P065,Manguera reforzada 15 m,Jardinería,1989.2,41,15,595.2,48.41733333333333,0.2992
+P059,Casco de seguridad amarillo,Seguridad industrial,1862.27,77,20,591.77,24.1845,0.3178
+P023,Clavo para madera kg,Materiales de construcción,2264.12,227,25,584.32,9.9152,0.2581
+P026,Pintura látex marfil 1 gl,Pinturas,1990.88,42,11,583.88,47.24090909090909,0.2933
+P013,Atornillador inalámbrico 12V,Herramientas eléctricas,2299.57,13,8,583.5699999999999,177.26875,0.2538
+P003,Destornillador plano 6 pulgadas,Herramientas manuales,1437.8,160,62,573.8,8.984193548387097,0.3991
+P052,Perno hexagonal 1/4 ciento,Tornillería y fijaciones,1506.05,77,18,543.55,19.502222222222223,0.3609
+P024,Impermeabilizante 4 L,Materiales de construcción,1893.46,26,3,541.46,73.15333333333334,0.286
+P045,Pegamento PVC 1/4 gl,Gasfitería,1720.6799999999998,102,23,537.48,16.91521739130435,0.3124
+P041,Tubo PVC agua 1/2 pulgada,Gasfitería,1786.92,236,46,512.52,7.582826086956522,0.2868
+P043,Llave esférica 1/2 pulgada,Gasfitería,1574.69,109,29,506.49,14.494827586206897,0.3216
+P054,Tuerca hexagonal 1/4 ciento,Tornillería y fijaciones,1266.56,127,27,504.56,9.993703703703703,0.3984
+P051,Tarugo plástico 6 mm ciento,Tornillería y fijaciones,1110.52,201,56,487.42,5.510892857142857,0.4389
+P058,Lente de seguridad transparente,Seguridad industrial,1448.6399999999999,151,33,482.24,9.616969696969697,0.3329
+P036,Cinta aislante negra,Electricidad,1166.02,326,56,481.42,3.570535714285714,0.4129
+P011,Sierra circular 7 1/4 pulgadas,Herramientas eléctricas,2059.34,6,5,469.34,343.326,0.2279
+P040,Tablero eléctrico 8 polos,Electricidad,1893.44,23,3,467.44,83.09666666666668,0.2469
+P004,Juego de llaves mixtas 8 piezas,Herramientas manuales,1511.99,26,11,419.99,58.49909090909091,0.2778
+P027,Esmalte sintético negro 1/4 gl,Pinturas,1295.35,49,16,413.35,26.494375,0.3191
+P061,Chaleco reflectivo,Seguridad industrial,1214.02,69,14,399.82,17.612142857142857,0.3293
+P033,Cable THW 12 AWG metro,Electricidad,1173.35,323,64,398.15,3.59328125,0.3393
+P022,Alambre recocido kg,Materiales de construcción,1680.41,187,24,390.11,9.0025,0.2322
+P057,Guante de seguridad latex par,Seguridad industrial,1063.49,158,46,384.09,6.72,0.3612
+P048,Ducha eléctrica 5500W,Gasfitería,1397.98,15,3,362.98,92.48,0.2596
+P006,Serrucho carpintero 20 pulgadas,Herramientas manuales,1094.51,31,8,335.01,35.2725,0.3061
+P030,Brocha 2 pulgadas,Pinturas,696.12,98,40,284.52,7.127249999999999,0.4087
+P012,Lijadora orbital 240W,Herramientas eléctricas,1067.87,8,6,283.87,132.88833333333335,0.2658
+P028,Base selladora 1 gl,Pinturas,949.62,24,12,265.62,39.56,0.2797
+P008,Llave francesa 10 pulgadas,Herramientas manuales,855.5,22,8,239.5,39.05875,0.28
+P007,Nivel de burbuja 40 cm,Herramientas manuales,713.13,25,10,215.63,28.651,0.3024
+P070,Fertilizante universal 1 kg,Jardinería,620.4,42,15,208.79999999999998,14.774000000000001,0.3366
+P044,Cinta teflón 12 mm,Gasfitería,450.24,227,52,200.54,1.988076923076923,0.4454
+P062,Protector auditivo tipo copa,Seguridad industrial,571.1,18,4,175.1,31.695,0.3066
+P046,Trampa lavatorio PVC,Gasfitería,524.79,42,11,167.79,12.546363636363635,0.3197
+P066,Regadera plástica 10 L,Jardinería,497.96000000000004,18,6,164.95999999999998,27.505,0.3313
+P053,Arandela plana 1/4 ciento,Tornillería y fijaciones,387.75,56,13,158.15,6.891538461538461,0.4079
+P067,Tijera de podar,Jardinería,478.86,15,5,148.85999999999999,31.792,0.3109
+P055,Remache pop 1/8 ciento,Tornillería y fijaciones,374.27,24,6,146.26999999999998,15.495,0.3908
+P032,Thinner acrílico 1 L,Pinturas,457.56,35,17,146.06,13.035294117647059,0.3192
+P015,Compresora de aire 24 L,Herramientas eléctricas,544.53,1,1,114.53,544.53,0.2103
+P071,Maceta plastica mediana,Jardinería,291.21,28,11,109.21000000000001,10.387272727272729,0.375
+P042,Codo PVC 1/2 pulgada,Gasfitería,254.85,162,41,100.95,1.5753658536585367,0.3961
+P060,Mascarilla KN95 unidad,Seguridad industrial,251.65,98,22,94.85,2.5645454545454545,0.3769
+P064,Arnés de seguridad cuerpo completo,Seguridad industrial,404.16,2,1,94.16,202.08,0.233
+P039,Canaleta PVC 20x10 mm,Electricidad,294.56,64,15,89.76,4.588666666666667,0.3047
+P021,Ladrillo pandereta unidad,Materiales de construcción,379.78,387,63,62.44,0.98,0.1644
+P069,Rastrillo metálico,Jardinería,205.78,6,3,61.78,34.29666666666667,0.3002
+P072,Aspersor plástico regulable,Jardinería,187.69,11,3,55.69,17.09,0.2967
+P031,Lija al agua grano 220,Pinturas,99.83,98,41,45.93,1.0192682926829268,0.4601
+P068,Pala jardinera,Jardinería,137.83,5,4,42.83,27.4325,0.3107
+P056,Anclaje expansivo 3/8 unidad,Tornillería y fijaciones,96.66,34,7,35.46,2.832857142857143,0.3669
+P047,Válvula check 1/2 pulgada,Gasfitería,106.16,4,1,34.16,26.54,0.3218
