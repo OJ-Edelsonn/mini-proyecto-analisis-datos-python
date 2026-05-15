@@ -55,7 +55,7 @@ Calcule KPIs generales, rankings de productos, resumen por categoria, resumen me
 
 ### 6. Visualizaciones
 
-Genere graficos de tendencia mensual, top productos, ventas por categoria y relacion precio vs unidades vendidas.
+Genere graficos de tendencia mensual, top productos, ventas por categoria y relacion precio vs unidades vendidas. Tambien deje un pipeline reproducible en `src/pipeline_analisis.py` para reconstruir los datasets procesados, reportes y figuras desde los CSV originales.
 
 ## 5. Resultados clave
 
@@ -91,7 +91,7 @@ Una forma simple de decirlo en entrevista:
 - Crear segmentacion de productos por ventas, margen y stock.
 - Analizar estacionalidad por mes o trimestre.
 - Agregar pruebas automatizadas para validar datos.
-- Crear una version ejecutable del pipeline en `src/`.
+- Convertir el pipeline en paquete instalable o tarea automatizada.
 
 ## 9. Como defender el proyecto en entrevista
 

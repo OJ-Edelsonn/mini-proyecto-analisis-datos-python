@@ -36,6 +36,7 @@ Demostrar capacidad de analisis de datos con Python mediante un proyecto complet
 - README del proyecto.
 - Documento maestro.
 - Guia de presentacion.
+- Pipeline reproducible en `src/pipeline_analisis.py`.
 - Publicacion en GitHub.
 
 ### No incluye
@@ -145,6 +146,8 @@ Actividades:
 - `data/processed/ranking_margen_productos.csv`
 - `reports/quality_report.csv`
 - `reports/figures/`
+- `reports/resumen_ejecutivo.json`
+- `src/pipeline_analisis.py`
 - `README.md`
 - `docs/documento-maestro.md`
 - `docs/guia-presentacion.md`
@@ -207,6 +210,7 @@ Estado: completado.
 - Crear guia de presentacion.
 - Revisar notebook.
 - Validar entregables.
+- Crear pipeline reproducible en `src/`.
 - Publicar cambios en GitHub.
 
 Estado: completado.
@@ -279,9 +283,14 @@ Fases completadas:
 
 - `notebooks/analisis_datos_ferreteria.ipynb`
 
+### Pipeline
+
+- `src/pipeline_analisis.py`
+
 ### Reportes
 
 - `reports/quality_report.csv`
+- `reports/resumen_ejecutivo.json`
 - `reports/figures/01_tendencia_mensual_ventas.png`
 - `reports/figures/02_top_productos_ventas.png`
 - `reports/figures/03_ventas_por_categoria.png`
@@ -299,4 +308,4 @@ Fases completadas:
 - Crear segmentacion de productos por ventas, margen y stock.
 - Analizar estacionalidad por mes o trimestre.
 - Agregar pruebas automatizadas para validar datos.
-- Crear una version ejecutable del pipeline en `src/`.
+- Convertir el pipeline en paquete instalable o tarea automatizada.

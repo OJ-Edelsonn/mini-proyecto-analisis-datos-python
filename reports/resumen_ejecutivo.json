@@ -1,0 +1,11 @@
+{
+  "ventas_totales": 128182.96,
+  "unidades_vendidas": 8056,
+  "transacciones": 1800,
+  "margen_estimado": 35775.12,
+  "margen_estimado_pct": 0.2791,
+  "top_producto": "Cemento bolsa 42.5 kg",
+  "top_categoria": "Materiales de construcción",
+  "mejor_mes": "2025-11",
+  "correlacion_precio_unidades": -0.3247
+}

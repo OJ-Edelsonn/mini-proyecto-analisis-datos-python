@@ -62,8 +62,10 @@ Archivos procesados:
 |   `-- analisis_datos_ferreteria.ipynb
 |-- reports/
 |   |-- figures/
-|   `-- quality_report.csv
+|   |-- quality_report.csv
+|   `-- resumen_ejecutivo.json
 |-- src/
+|   `-- pipeline_analisis.py
 |-- README.md
 `-- requirements.txt
 ```
@@ -81,6 +83,7 @@ El notebook principal incluye:
 7. Analisis descriptivo de ventas, productos, categorias y meses.
 8. Visualizaciones principales.
 9. Insights de negocio.
+10. Pipeline reproducible en `src/pipeline_analisis.py`.
 
 ## KPIs principales
 
@@ -136,6 +139,12 @@ Instalar dependencias:
 
 ```powershell
 pip install -r requirements.txt
+```
+
+Regenerar datasets, reporte de calidad y figuras:
+
+```powershell
+python src/pipeline_analisis.py
 ```
 
 Abrir el notebook:
